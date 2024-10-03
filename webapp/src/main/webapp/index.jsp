@@ -23,6 +23,11 @@
     <label for="email"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="Father Name" id="Father Name" required>
     <br>
+
+    <label for="email"><b>sujja name</b></label>
+    <input type="text" placeholder="Enter sujja name" name="sujja name" id="sujja name" required>
+    <br>
+    
     
     
 
